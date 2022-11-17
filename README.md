@@ -1,4 +1,4 @@
-# Guerra Vaixells
+# AgendaPy
 
 Exemple d'una agenda de contactes amb Python.
 CRUD contactes, llistat, validacions, alta massiva i ús de fitxers.
