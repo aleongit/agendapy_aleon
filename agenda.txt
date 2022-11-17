@@ -1,0 +1,11 @@
+Nom,Cognom/s,Telèfon,em@il,@telegram
+Nom1,Cognom1,892132341,nom1@test.com,@nom1
+Nom2,Cognom2,206408995,nom2@test.com,@nom2
+Nom3,Cognom3,668927543,nom3@test.com,@nom3
+Nom4,Cognom4,656869348,nom4@test.com,@nom4
+Nom5,Cognom5,954025665,nom5@test.com,@nom5
+Nom6,Cognom6,990099488,nom6@test.com,@nom6
+Nom7,Cognom7,933536746,nom7@test.com,@nom7
+Nom8,Cognom8,332850850,nom8@test.com,@nom8
+Nom9,Cognom9,311174181,nom9@test.com,@nom9
+Nom10,Cognom10,082501254,nom10@test.com,@nom10
